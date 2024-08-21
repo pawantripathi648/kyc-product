@@ -1,0 +1,11 @@
+.header {
+  background-color: #001529;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+}
+.highlight-row {
+  background-color: #9ccee7 !important; /* Light blue background for highlighting */
+}
